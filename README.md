@@ -1,2 +1,5 @@
+# Spanish Verb Conjugation Finder
+## Give a sentence, and it will identify the conjugated verbs present!
+---
 
-![Alt text](img/estonomegusta.jpg?raw=true "Title")
+![plot](img/estonomegusta.JPG)
