@@ -1,6 +1,6 @@
 
+<pre>
 <html>
-<head><title>Verbs Español </title></head>
 <body style="font-family:verdana;">
 <p>Spanish</p>
 <ul>
@@ -21,4 +21,4 @@
 </li><li> La mesa de vidrio se <b style="color:SlateBlue;".>rompió</b> pero no <b style="color:SlateBlue;".><b style="color:SlateBlue;".>fue</b></b> por mi culpa.
 </li><li> <b style="color:SlateBlue;".>Prendí</b>  la luz y un ratón <b style="color:SlateBlue;".>salió</b> del cuarto enseguida.
 </li><li> Se <b style="color:SlateBlue;".>cayó</b> el florero cua-ndo <b style="color:SlateBlue;".>cerraste</b> la puerta fuerte.
-</li><li> <b style="color:SlateBlue;".>Tiraron</b> el control remoto sin querer.</li>
+</li><li> <b style="color:SlateBlue;".>Tiraron</b> el control remoto sin querer.</li></ol></body></html></pre>
